@@ -1,5 +1,5 @@
 {
-    "name": "broadway/event-store-dbal",
+    "name": "symplyf/event-store-dbal",
     "description": "Event store implementation using doctrine/dbal",
     "license": "MIT",
     "require": {
